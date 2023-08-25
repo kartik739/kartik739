@@ -14,7 +14,7 @@ I agree with this Idea.
 
 [LinkedIn](https://www.linkedin.com/in/kartikgoel001/)
 
-[Twitter](https://twitter.com/kartikgoel007)
+[Twitter](https://twitter.com/kartikgoel007/)
 
 [Portfolio](https://kartikgoel.tech/)
 
