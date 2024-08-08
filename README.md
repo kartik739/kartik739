@@ -22,3 +22,8 @@ I agree with this Idea.
    src="https://github-readme-stats.vercel.app/api?username=kartik739&show_icons=true&theme=tokyonight" 
 />
 
+###
+
+###
+
+<img src="https://github.com/Platane/snk/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
